@@ -36,5 +36,5 @@ We also conducted **histogram-based stock analysis**, focusing on companies like
 
 ## Credits  
 
-**Team Semicolon**  
+**Team**  
 - [Aakash Arya](https://github.com/Aakash22Arya)
