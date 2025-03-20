@@ -8,7 +8,7 @@ We implemented **Multistep Time Series Prediction** using **Stateful LSTMs**, wh
 
 For this project, we used **Dow Jones Top 30 Stocks** as the primary dataset.  
 
-![Broker Dashboard](Screenshots/blah.png)  
+![Broker Dashboard](Screenshots/I.jpg)  
 
 ## Key Features of Our Trading Algorithms  
 
@@ -19,8 +19,8 @@ Our model integrates multiple financial heuristics to enhance stock predictions 
 - **Portfolio Risk Assessment** – Analyzes volatility and risk factors in investment portfolios.  
 - **News Sentiment Analysis** – Extracts and interprets market sentiment from financial news.  
 
-![Stock Trending](Screenshots/algo.png)  
-![Algo Comparison](Screenshots/algo2.png)  
+![Stock Trending](Screenshots/III.jpg)  
+![Algo Comparison](Screenshots/II.jpg)  
 
 ## Exploratory Data Analysis  
 
