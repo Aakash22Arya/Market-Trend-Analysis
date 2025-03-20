@@ -38,3 +38,4 @@ We also conducted **histogram-based stock analysis**, focusing on companies like
 
 **Team**  
 - [Aakash Arya](https://github.com/Aakash22Arya)
+- [Adarsh Singh](https://github.com/adarshsingh-01)
