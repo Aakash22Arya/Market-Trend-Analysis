@@ -1,33 +1,40 @@
-# Stockopedia
+# Stockopedia  
 
-Investing your dreams by accessing more heuristics states by using Deep Learning.
+**Invest in your dreams by leveraging deep learning for smarter trading decisions.**  
 
-## Stateful LSTM
-We have used Multistep Time Series Data Prediction using the batching property of LSTM (Stateful LSTM).
-It Learns  using various parameters analyzed with right amount of brain storming
+## Stateful LSTM  
 
-We have used Dow Jones Top 30 Stocks as a primary dataset.
+We implemented **Multistep Time Series Prediction** using **Stateful LSTMs**, which utilize the batching property of LSTMs to retain memory across sequences. Our model learns from various financial parameters, analyzed through rigorous data exploration and fine-tuned hyperparameters.  
 
-![Broker Dashboard](Screenshots/blah.png)
+For this project, we used **Dow Jones Top 30 Stocks** as the primary dataset.  
 
+![Broker Dashboard](Screenshots/blah.png)  
 
-## Features Used to Segregate Trading Algorithms :
+## Key Features of Our Trading Algorithms  
 
-* Mutual Funds Analysis
-* Prediction Analysis
-* Portfolio Risk
-* News Sentiment Analysis 
+Our model integrates multiple financial heuristics to enhance stock predictions and risk assessments:  
 
-![Stock Trending](Screenshots/algo.png)
-![Algo Comparision](Screenshots/algo2.png)
+- **Mutual Funds Analysis** – Evaluates fund performance and investment strategies.  
+- **Prediction Analysis** – Uses deep learning to forecast stock price trends.  
+- **Portfolio Risk Assessment** – Analyzes volatility and risk factors in investment portfolios.  
+- **News Sentiment Analysis** – Extracts and interprets market sentiment from financial news.  
 
+![Stock Trending](Screenshots/algo.png)  
+![Algo Comparison](Screenshots/algo2.png)  
 
-![Exploratory Data Analaysis](Screenshots/1.png)
-Time Series Data 
+## Exploratory Data Analysis  
 
-![Histogram Analysis](Screenshots/2.png)
-JP Morgan Stock Analysis 
+Our **time-series analysis** explores historical trends and market behaviors, aiding in model optimization.  
 
-Credits :
-Team Semicolon :
-* [Aakash Arya](https://github.com/Aakash22Arya)
+![Exploratory Data Analysis](Screenshots/1.png)  
+*Time Series Data*  
+
+We also conducted **histogram-based stock analysis**, focusing on companies like **JP Morgan** to examine price distributions and volatility.  
+
+![Histogram Analysis](Screenshots/2.png)  
+*JP Morgan Stock Analysis*  
+
+## Credits  
+
+**Team Semicolon**  
+- [Aakash Arya](https://github.com/Aakash22Arya)
