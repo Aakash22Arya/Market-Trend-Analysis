@@ -34,9 +34,9 @@ We also conducted **histogram-based stock analysis**, focusing on companies like
 ![Histogram Analysis](Screenshots/2.png)  
 *JP Morgan Stock Analysis*  
 
-## Credits  
+## Credits for this project: 
 
-**Team**  
+**Team member**  
 - [Aakash Arya](https://github.com/Aakash22Arya)
 - [Adarsh Singh](https://github.com/adarshsingh-01)
 - [Abhijeet Nandi](https://github.com/Abhijeet122333)
