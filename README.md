@@ -41,3 +41,4 @@ We also conducted **histogram-based stock analysis**, focusing on companies like
 - [Adarsh Singh](https://github.com/adarshsingh-01)
 - [Abhijeet Nandi](https://github.com/Abhijeet122333)
 - [Ayush Cena](https://github.com/ayushcena1341)
+- [Souvik Mondal](https://github.com/Imsouvikmondal)
